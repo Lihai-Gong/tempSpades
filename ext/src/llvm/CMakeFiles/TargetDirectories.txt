@@ -1,0 +1,3 @@
+/Users/glh/Desktop/myspades/ext/src/llvm/CMakeFiles/rebuild_cache.dir
+/Users/glh/Desktop/myspades/ext/src/llvm/CMakeFiles/edit_cache.dir
+/Users/glh/Desktop/myspades/ext/src/llvm/CMakeFiles/llvm-support.dir

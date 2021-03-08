@@ -1,0 +1,4 @@
+
+=== Error correction and assembling warnings:
+ * 0:00:00.753     5M / 7M    WARN    General                 (launcher.cpp              : 172)   Your data seems to have high uniform coverage depth. It is strongly recommended to use --isolate option.
+======= Warnings saved to /Users/glh/biosoft/SPAdes/spades_test/warnings.log

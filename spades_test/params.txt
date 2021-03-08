@@ -1,0 +1,37 @@
+Command line: /Users/glh/biosoft/SPAdes/bin/spades.py	--test	
+
+System information:
+  SPAdes version: 3.14.1
+  Python version: 3.8.5
+  OS: macOS-10.16-x86_64-i386-64bit
+
+Output dir: /Users/glh/biosoft/SPAdes/spades_test
+Mode: read error correction and assembling
+Debug mode is turned OFF
+
+Dataset parameters:
+  Standard mode
+  For multi-cell/isolate data we recommend to use '--isolate' option; for single-cell MDA data use '--sc'; for metagenomic data use '--meta'; for RNA-Seq use '--rna'.
+  Reads:
+    Library number: 1, library type: paired-end
+      orientation: fr
+      left reads: ['/Users/glh/biosoft/SPAdes/share/spades/test_dataset/ecoli_1K_1.fq.gz']
+      right reads: ['/Users/glh/biosoft/SPAdes/share/spades/test_dataset/ecoli_1K_2.fq.gz']
+      interlaced reads: not specified
+      single reads: not specified
+      merged reads: not specified
+Read error correction parameters:
+  Iterations: 1
+  PHRED offset will be auto-detected
+  Corrected reads will be compressed
+Assembly parameters:
+  k: automatic selection based on read length
+  Repeat resolution is enabled
+  Mismatch careful mode is turned OFF
+  MismatchCorrector will be SKIPPED
+  Coverage cutoff is turned OFF
+Other parameters:
+  Dir for temp files: /Users/glh/biosoft/SPAdes/spades_test/tmp
+  Threads: 16
+  Memory limit (in Gb): 250
+
